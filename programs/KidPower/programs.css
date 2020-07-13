@@ -1,0 +1,61 @@
+.borderLeftStyle{
+    border-left: 2px solid #f4b53f;
+}
+
+.rowClass{
+    display: flex;
+justify-content: flex-start;
+display: none;
+}
+
+i{
+    cursor: -webkit-grab; cursor: grab !important;
+}
+
+.BadgeStyle{
+    cursor: -webkit-grab; cursor: grab !important;
+    background-color: #606edf !important;
+    color:#fff !important
+}
+
+.loaderStyleKidPdf{
+    position: absolute;
+    top: 0%;
+    right: 50%;
+    /* transform: translate(-50%, -50%); */
+}
+
+.loaderStylegraduatePdf{
+    position: absolute;
+    top: 85%;
+    right: 50%;  
+}
+
+.loaderStyleSessionSem{
+    position: absolute;
+    top: 50%;
+    right: 40%;
+}
+
+.detailIcon{
+    font-size: 20px;
+    
+}
+
+/* .parentBox{
+    position: relative;
+}
+
+.childBox{
+    position: absolute;
+    top:70%;
+    right: 5%;
+    color: #f4b53f !important;
+}
+
+.childUpBox{
+    position: absolute;
+    top:30%;
+    right: 5%;
+    color: #f4b53f !important;
+} */

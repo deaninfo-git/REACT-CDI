@@ -1,0 +1,45 @@
+.expansionPadding{
+    padding: 0px !important;}
+
+    .dateCardStyle{
+        width: 13rem !important;
+        border-left: 2px solid #f4b53f !important;
+        border-left-width: 5px !important;
+        font-size: 10px !important;
+    }
+
+    .expandColor{
+        background-color: #f3a002 !important;
+        color: #fff !important;
+    }
+
+    i{
+        cursor: -webkit-grab; cursor: grab !important;
+    }
+    
+    .BadgeStyle{
+        cursor: -webkit-grab; cursor: grab !important;
+        background-color: #606edf !important;
+        color:#fff !important
+    }
+
+    .loaderStyleMiteraPdf{
+        position: absolute;
+        top: 0%;
+        right: 50%;
+        /* transform: translate(-50%, -50%); */
+    }
+    .loaderStylegraduatePdf{
+        position: absolute;
+        top: 85%;
+        right: 50%;  
+    }
+    .activityUpdateLoad{
+        position: absolute;
+        top: 60%;
+        right: 50%;  
+    }
+    
+    
+
+    
