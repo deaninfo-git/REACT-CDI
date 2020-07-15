@@ -1,6 +1,6 @@
 # CDI-REACT
 
-This Project is about the school, programs, mentors, children management system in which Admin can ADD the schools, add children under schools and assign them program with mentors. It also manage the Events and Participation done by Schools.
+This Project is about the school, programs, mentors, children management system in which Admin can add the schools, add children under schools and assign them program with mentors. It also manage the Events and Participation done by Schools.
 
 ### Backend
 Backend Technology is *<a href="https://laravel.com/">Laravel</a>*
